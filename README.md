@@ -17,14 +17,7 @@
 
 ![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
 
-<p>
-  <a href="https://github.com/sahilmondal" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=shaxzad&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
-  </a>
-  <a href="https://github.com/sahilmondal" >
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=imran-baitham&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
-  </a>
- </p>
+
 
 ## 🔧 Technologies & 📖 Languages
 
