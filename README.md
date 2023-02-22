@@ -1,6 +1,6 @@
 ## Hi Awesome Developers 👋
 <h1 align="left">Myself Sahil Mondal</h1>
-#💫 About Me:
+##💫 About Me:
 A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product
 
 
@@ -24,8 +24,7 @@ A Frontend focused Web Developer building the Frontend of Websites and Web Appli
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sahilmondal&icon=7&color=0)](https://visitcount.itsvg.in)
