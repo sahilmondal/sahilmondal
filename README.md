@@ -1,7 +1,7 @@
 ## Hi Awesome Developers 👋
 <h1 align="left">Myself Sahil Mondal</h1>
 <h2 align="left">💫 About Me:</h2>
-A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product
+A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product <br> I'm open to Job opportunities where I can contribute, learn and grow. If you have a good opportunity that matches my skills and experience then don't hesitate to contact me.
 
 
 ## 🌐 Socials:
