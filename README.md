@@ -1,7 +1,8 @@
 ## Hi Awesome Developers 👋
 <h1 align="left">Myself Sahil Mondal</h1>
 ![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
-# 💫 About Me:
+
+#💫 About Me:
 A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product
 
 
