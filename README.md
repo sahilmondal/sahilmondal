@@ -1,6 +1,6 @@
 ## Hi Awesome Developers 👋
 <h1 align="left">Myself Sahil Mondal</h1>
-##💫 About Me:
+<h2 align="left">💫 About Me:</h2>
 A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product
 
 
