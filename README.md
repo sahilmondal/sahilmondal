@@ -4,7 +4,7 @@
 
 ### Full Stack Developer • Frontend Specialist • Building modern SaaS & developer products
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+MVPs+for+Startups;Crafting+Modern+Web+Experiences;Next.js+%2B+TypeScript+Enthusiast;Frontend+Engineer+from+India" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Building+MVPs+for+Startups;Crafting+Modern+Web+Experiences;Next.js+%2B+TypeScript+Enthusiast;Full+Stack+Engineer+from+India" />
 
 </div>
 
